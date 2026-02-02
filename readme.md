@@ -16,7 +16,7 @@ But with only 30 test queries, that difference could easily be random noise. Wit
 
 ## What This Does
 
-`rigor` tells you if differences are real or just noise. Proper significance tests, confidence intervals, and effect sizes — specifically designed for LLM evaluation patterns (binary outcomes, paired comparisons, small sample sizes).
+`rigor` tells you if differences are real or just noise. Proper significance tests, confidence intervals, and effect sizes - specifically designed for LLM evaluation patterns (binary outcomes, paired comparisons, small sample sizes).
 
 ## What This Does
 
