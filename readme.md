@@ -39,7 +39,6 @@ Not yet published to PyPI. For now, the easiest way to use this is:
 - Copy the statistical functions from Cell 6 of the tutorial notebook
 - Paste into your own code
 
-We'll publish a proper installable package once the API stabilizes.
 
 ## Status
 
